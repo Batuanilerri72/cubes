@@ -1,3 +1,3 @@
 do
-msgbox"küp(opsiyonel)"
+msgbox"kup(opsiyonel)"
 loop
